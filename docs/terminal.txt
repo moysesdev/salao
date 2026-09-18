@@ -1,0 +1,19 @@
+PS C:\projetos_webDev\salao> npm run reset
+
+> salao@1.0.0 reset
+> node reset.js
+
+Gerente gerente@salao.com criado.
+
+--- LOGIN ---
+E-mail: gerente@salao.com
+Senha : (a definida em RESET_PASSWORD)
+
+PS C:\projetos_webDev\salao> npm start
+
+> salao@1.0.0 start
+> node server.js
+
+Servidor rodando em http://localhost:3000
+Ambiente: desenvolvimento
+PS C:\projetos_webDev\salao>
