@@ -6,7 +6,7 @@ profissionais, serviços e agendar horários com controle de conflito.
 ## Tecnologias
 
 - **Backend:** Node.js, Express, PostgreSQL
-- **Frontend:** HTML, Tailwind CSS (via CDN), JavaScript puro
+- **Frontend:** HTML, Tailwind CSS, JavaScript puro
 - **Segurança:** bcrypt (senhas), JWT (sessão), cookies httpOnly
 
 ## Como rodar
@@ -39,7 +39,7 @@ Acesse em http://localhost:3000
 - Login do gerente
 - Recuperação de senha por código enviado por e-mail
 - Cadastro de clientes, profissionais e serviços
-- Agendamento com validação de conflito (por profissional e por cliente)
+- Agendamento com validação de conflito
 - Cancelamento com preservação de histórico
 - Busca na timeline de agendamentos
 
